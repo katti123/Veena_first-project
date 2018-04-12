@@ -44,8 +44,7 @@ public void click_button()
     Label label = new Label();
     String message="Enter your concern in 300 words";
 	label.setText(message);
-  
-    
+  label.setAlignment(Pos.BASELINE_CENTER);
     
     
     
